@@ -1,3 +1,3 @@
 # spade-github
 
-Test Project Groups
+Test Project
